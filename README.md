@@ -6,3 +6,7 @@ description: Pagina inicial
 
 ## dfsdfsdf   **sdf**
 
+{% hint style="warning" %}
+* algo
+{% endhint %}
+
