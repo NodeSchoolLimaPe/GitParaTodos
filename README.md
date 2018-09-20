@@ -1,12 +1,10 @@
 ---
-description: Pagina inicial
+description: Definición de los videos de explicación
 ---
 
-# Initial page
+# Introducción
 
-## dfsdfsdf   **sdf**
+## Videos
 
-{% hint style="warning" %}
-* algo
-{% endhint %}
-
+* [ ] Que es Git
+* [ ] 
